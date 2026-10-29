@@ -172,13 +172,18 @@ TrueCallCheck-Web/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, bug reports, feature requests, and suggestions are welcome!
 
-1. Fork the Project (`https://github.com/GoutamHX/TrueCallCheck-Web`)
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+If you would like to contribute to VaniSafe AI:
+
+1. Fork the [VaniSafe AI repository](https://github.com/itsananytripathi/VaniSafe-AI).
+2. Create a feature branch: `git checkout -b feature/your-feature-name`.
+3. Make your changes and test them.
+4. Commit your changes: `git commit -m "Add: describe your change"`.
+5. Push your branch: `git push origin feature/your-feature-name`.
+6. Open a Pull Request against the original VaniSafe AI repository.
+
+For bugs or feature requests, please use the [GitHub Issues page](https://github.com/itsananytripathi/VaniSafe-AI/issues).
 
 ---
 
