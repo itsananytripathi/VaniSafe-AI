@@ -1,0 +1,89 @@
+{
+  "homepage": ".",
+  "name": "truecallcheck-web",
+  "version": "2.0.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.3",
+    "@vercel/analytics": "^2.0.1",
+    "axios": "^1.20.0",
+    "bootstrap": "^5.3.8",
+    "framer-motion": "^12.43.0",
+    "lucide-react": "^1.41.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-icons": "^5.7.0",
+    "react-router-dom": "^7.18.3",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^11.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "CI=false react-scripts build",
+    "test": "react-scripts test --passWithNoTests",
+    "lint": "eslint src/",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "description": "Free, instant, and privacy-focused phone number lookup and caller identification web platform for India.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoutamHX/TrueCallCheck-Web.git"
+  },
+  "keywords": [
+    "TrueCallCheck",
+    "caller-info",
+    "api",
+    "caller-id",
+    "truecaller",
+    "phone-lookup",
+    "TrueCallCheck.tech",
+    "email-info",
+    "document-number",
+    "passport-number",
+    "alternate-number",
+    "mobile-friendly",
+    "fast-lightweight",
+    "Goutam Septa",
+    "Goutam Septa projects",
+    "Goutam Septa developer",
+    "Goutam Septa portfolio",
+    "GoutamHX",
+    "telecom",
+    "imgoutam"
+  ],
+  "author": "Goutam Septa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoutamHX/TrueCallCheck-Web/issues"
+  },
+  "overrides": {
+    "nth-check": "2.1.1"
+  }
+}
+

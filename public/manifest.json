@@ -1,0 +1,38 @@
+{
+  "short_name": "TrueCallCheck",
+  "name": "TrueCallCheck - Phone Number Lookup & Caller ID",
+  "description": "Free phone number lookup tool for India. Identify unknown callers, detect spam calls, and get caller details instantly.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "favicon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220",
+  "categories": ["utilities", "productivity"],
+  "lang": "en-IN"
+}
