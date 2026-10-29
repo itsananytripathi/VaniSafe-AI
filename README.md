@@ -182,14 +182,30 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 👨‍💻 Author & Maintainer
+## 👨‍💻 Author & Project Maintainer
 
-**Goutam Septa** (GoutamHX / imgoutam)
-- 🌐 **Portfolio**: [https://www.imgoutam.dev/](https://www.imgoutam.dev/)
-- 🐙 **GitHub**: [@GoutamHX](https://github.com/GoutamHX)
-- ✈️ **Telegram**: [@MR_GOUTAM08](https://t.me/MR_GOUTAM08)
-- 📢 **Telegram Channel**: [@TheAdvanceBots](https://telegram.dog/TheAdvanceBots)
-- 📸 **Instagram**: [@ig.goutam_](https://instagram.com/ig.goutam_)
+**Anany Tripathi**
+B.Tech CSE (AI & ML) | AI/ML Engineer
+- 🐙 **GitHub**: [@itsananytripathi](https://github.com/itsananytripathi)
+- 💼 **LinkedIn**: [Anany Tripathi](https://www.linkedin.com/in/anany-tripathi-2947b1358/)
+- 🚀 **Project Repository**: [VaniSafe AI](https://github.com/itsananytripathi/VaniSafe-AI)
+
+### About the Project
+VaniSafe AI is an AI-powered, regional voice-first fraud defense platform designed to help users recognize potential digital financial scams through scam-intent analysis, voice authenticity signals, and multilingual voice warnings.
+
+**Focus Areas**: Voice AI · Artificial Intelligence · Machine Learning · Cybersecurity · Financial Fraud Prevention
+
+---
+
+## 🙏 Original Project & Third-Party Attributions
+
+This frontend application is based on and adapted from [TrueCallCheck Web](https://github.com/GoutamHX/TrueCallCheck-Web), an open-source caller identification platform developed by **Goutam Septa** (GoutamHX).
+
+- **Original TrueCallCheck Project**: [https://github.com/GoutamHX/TrueCallCheck-Web](https://github.com/GoutamHX/TrueCallCheck-Web)
+- **Original Author**: Goutam Septa ([@GoutamHX](https://github.com/GoutamHX))
+- **Original Portfolio**: [https://www.imgoutam.dev/](https://www.imgoutam.dev/)
+
+The original TrueCallCheck frontend codebase is licensed under the MIT License. This adapted version maintains appropriate attribution and respects the original licensing terms.
 
 ---
 
