@@ -197,18 +197,6 @@ VaniSafe AI is an AI-powered, regional voice-first fraud defense platform design
 
 ---
 
-## 🙏 Original Project & Third-Party Attributions
-
-This frontend application is based on and adapted from [TrueCallCheck Web](https://github.com/GoutamHX/TrueCallCheck-Web), an open-source caller identification platform developed by **Goutam Septa** (GoutamHX).
-
-- **Original TrueCallCheck Project**: [https://github.com/GoutamHX/TrueCallCheck-Web](https://github.com/GoutamHX/TrueCallCheck-Web)
-- **Original Author**: Goutam Septa ([@GoutamHX](https://github.com/GoutamHX))
-- **Original Portfolio**: [https://www.imgoutam.dev/](https://www.imgoutam.dev/)
-
-The original TrueCallCheck frontend codebase is licensed under the MIT License. This adapted version maintains appropriate attribution and respects the original licensing terms.
-
----
-
 ## 📄 License
 
 The frontend web client application is distributed under the **MIT License**. See [`LICENSE`](https://github.com/GoutamHX/TrueCallCheck-Web/blob/main/LICENSE) for full legal text.
